@@ -6,7 +6,7 @@ tables/*.csv#
 tables/*.ods
 
 wandb-metadata.json
-
+.DS_Store
 dedup
 
 .vs/
